@@ -1,4 +1,4 @@
-# **Javascript Project 2025 - It's not a Javascript course, it's a coding test**
+# **Javascript Project 2025 - Javascript course, it's a coding test**
 
 ![image](./course/images/melhorar.png)
 
