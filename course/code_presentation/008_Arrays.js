@@ -12,7 +12,7 @@ console.log(arr1[1]); // 42
 arr1[2] = "third";
 
 // Reading off the end returns undefined
-console.log(arr[10]); // undefined
+// console.log(arr[10]); // undefined
 
 // You _can_ assign non-contiguous values
 arr1[5] = "fifth";

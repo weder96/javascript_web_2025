@@ -6,7 +6,7 @@ let obj1 = {
     // But you can quote if you want
     "b" : 2,
     // Keys that aren't legal identifiers must be quoted
-    "first.last" : "Mark Erikson",
+    "first.last" : "Weder Sousa",
     // and values can be whatever
     "dashed-name" :  {nested : {data : ["here"]}},
 
